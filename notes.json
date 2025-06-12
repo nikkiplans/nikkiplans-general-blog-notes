@@ -5,8 +5,9 @@
       "notes": [
         {
           "id": "note1",
-          "title": "📱 𝘋𝘰𝘯’𝘵 𝘊𝘢𝘭𝘭, 𝗝𝘂𝘀𝘁 𝗧𝘅𝘁 — NikkiGPT Membership 💻💬🧸",
-          "content": "a soft, smart, squishy lil subscription for creative cuties doing their best.\n\nget help from my digital bestie crew—NikkiGPTs... aka your AI alter ego hotline."
+          "title": "📱 𝘋𝘰𝘯’𝘵 𝘊𝘢𝘭𝘭, 𝗝𝘂𝘴𝘵 𝗧𝘅𝘁 — NikkiGPT Membership 💻💬🧸",
+          "content": "a soft, smart, squishy lil subscription for creative cuties doing their best.\n\nget help from my digital bestie crew—NikkiGPTs... aka your AI alter ego hotline.",
+          "tag": "pinned"
         }
       ]
     },
@@ -16,22 +17,26 @@
         {
           "id": "note2",
           "title": "🧸 Side Chat — $0/mo (free)",
-          "content": "✨ “you’re here, feelin’ it… but still low-key.”\n\n• 1 NikkiGPT Lite — a lil AI pal to help spark ideas 🧠\n• a Monthly soft reset: lil journal, mindset, or planning prompt 📓\n• sneak peeks of what’s launching in other my other brands/tiers 👀\n• gentle “hey chat 👋” community updates with zero pressure\n\n💛 this tier is for cozy lurkers, quiet creatives, and shy besties. show up when you can. ghost us when you need. you’re still in the chat."
+          "content": "✨ “you’re here, feelin’ it… but still low-key.”\n\n• 1 NikkiGPT Lite — a lil AI pal to help spark ideas 🧠\n• a Monthly soft reset: lil journal, mindset, or planning prompt 📓\n• sneak peeks of what’s launching in other my other brands/tiers 👀\n• gentle “hey chat 👋” community updates with zero pressure\n\n💛 this tier is for cozy lurkers, quiet creatives, and shy besties. show up when you can. ghost us when you need. you’re still in the chat.",
+          "tag": "tools"
         },
         {
           "id": "note3",
           "title": "꩜ the Airdrop Club — $2-5/mo (Monthly Drops)",
-          "content": "✨ you love the vibe, you want the drops.\n\nIncludes:\n• 1 Monthly Mini Drop — random realistic, vector, handdrawn, or AI digital sticker OR surprise freebies, like lockscreen wallpapers, or planner/journal PDF inserts. 1 drop a month.\n\n💛 for the cozy chaos planner babes who want a lil treat each month without the pressure to do it all. Get your art fix without the fomo."
+          "content": "✨ you love the vibe, you want the drops.\n\nIncludes:\n• 1 Monthly Mini Drop — random realistic, vector, handdrawn, or AI digital sticker OR surprise freebies, like lockscreen wallpapers, or planner/journal PDF inserts. 1 drop a month.\n\n💛 for the cozy chaos planner babes who want a lil treat each month without the pressure to do it all. Get your art fix without the fomo.",
+          "tag": "tools"
         },
         {
           "id": "note4",
           "title": "💬 Main Chat — $10/mo (Standard)",
-          "content": "✨ “you’re all in. you want vibes and strategy.”\n\n• unlock all the Lite NikkiGPT army\n• My personal AI Prompt Archive: prompts I actually use \n• Paywalled blog + comment access for soft accountability + shared celebrations ✨\n• Digital bestie energy on speed dial.\n\n💛 this tier is your main groupchat access: where cute meets clear. support without the stress. tools you’ll actually use."
+          "content": "✨ “you’re all in. you want vibes and strategy.”\n\n• unlock all the Lite NikkiGPT army\n• My personal AI Prompt Archive: prompts I actually use \n• Paywalled blog + comment access for soft accountability + shared celebrations ✨\n• Digital bestie energy on speed dial.\n\n💛 this tier is your main groupchat access: where cute meets clear. support without the stress. tools you’ll actually use.",
+          "tag": "tools"
         },
         {
           "id": "note5",
           "title": "📱 Voice Note — $20/mo (Premium/Plus)",
-          "content": "✨ “you’re priority. I answer your notification first.”\n\n• Unlock the (Premium) NikkiGPT Plus crew for deep creative strategy 🧠\n• Monthly ✨voice note✨ from Nikki — real talk, heart-to-heart \n• Paywalled blog + comment access for accountability + shared celebrations ✨\n• Access to exclusive, group-led monthly challenges 🌸\n• Priority Q&A thread: ask me + my GPTs anything 📬\n• Secret Shop unlocked: extra digital goodies + sneak drops 📦\n• Voting power on future GPTs/content/products 🗳️\n\n💛 this tier is for main characters.\nyou’re done waiting. it’s your time. let’s build together."
+          "content": "✨ “you’re priority. I answer your notification first.”\n\n• Unlock the (Premium) NikkiGPT Plus crew for deep creative strategy 🧠\n• Monthly ✨voice note✨ from Nikki — real talk, heart-to-heart \n• Paywalled blog + comment access for accountability + shared celebrations ✨\n• Access to exclusive, group-led monthly challenges 🌸\n• Priority Q&A thread: ask me + my GPTs anything 📬\n• Secret Shop unlocked: extra digital goodies + sneak drops 📦\n• Voting power on future GPTs/content/products 🗳️\n\n💛 this tier is for main characters.\nyou’re done waiting. it’s your time. let’s build together.",
+          "tag": "tools"
         }
       ]
     },
@@ -41,12 +46,14 @@
         {
           "id": "note6",
           "title": "🌈 No matter what tier you’re in",
-          "content": "there’s no shame, no rush, no “shoulds.”\n\nJust a cute corner of the internet where your ideas are safe, your dreams matter, and your digital bestie is just a txt away 💬🧸✨"
+          "content": "there’s no shame, no rush, no “shoulds.”\n\nJust a cute corner of the internet where your ideas are safe, your dreams matter, and your digital bestie is just a txt away 💬🧸✨",
+          "tag": "identity"
         },
         {
           "id": "note7",
           "title": "Don’t Call, Just Txt",
-          "content": "A soft, low-pressure, digital support space for creative minds powered by NikkiGPTs.\n\n→ Fluctuating-energy-friendly.\n→ Vibe-based access, not rigid schedules.\n\n💬 WHAT MEMBERS GET\n• GPT-based emotional + strategic support\n• Brand-flavored tools across ClickNikki, NikkiPlans, ForTogs\n• Lifestyle blog meets creative co-working groupchat\n• Value builds over time through vaults, not deadlines\n• “Hey Chat 👋” energy = built-in community language"
+          "content": "A soft, low-pressure, digital support space for creative minds powered by NikkiGPTs.\n\n→ Fluctuating-energy-friendly.\n→ Vibe-based access, not rigid schedules.\n\n💬 WHAT MEMBERS GET\n• GPT-based emotional + strategic support\n• Brand-flavored tools across ClickNikki, NikkiPlans, ForTogs\n• Lifestyle blog meets creative co-working groupchat\n• Value builds over time through vaults, not deadlines\n• “Hey Chat 👋” energy = built-in community language",
+          "tag": "tools"
         }
       ]
     }
