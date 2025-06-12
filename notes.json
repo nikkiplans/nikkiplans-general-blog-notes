@@ -5,20 +5,20 @@
       "notes": [
         {
           "id": "note1",
-          "title": "📱 𝘋𝘰𝘯’𝘵 𝘊𝘢𝘭𝘭, 𝗝𝘂𝘴𝘵 𝗧𝘅𝘁 — NikkiGPT Membership 💻💬🧸",
+          "title": "📱 𝘋𝘰𝘯’𝘵 𝘊𝘢𝘭𝘭, 𝗝𝘂𝘴𝘵 𝗧𝘅𝘵 — NikkiGPT Membership 💻💬🧸",
           "content": "a soft, smart, squishy lil subscription for creative cuties doing their best.\n\nget help from my digital bestie crew—NikkiGPTs... aka your AI alter ego hotline.",
           "tag": "pinned"
         }
       ]
     },
     {
-      "label": "Today",
+      "label": "📌 Pinned",
       "notes": [
         {
           "id": "note2",
           "title": "🧸 Side Chat — $0/mo (free)",
           "content": "✨ “you’re here, feelin’ it… but still low-key.”\n\n• 1 NikkiGPT Lite — a lil AI pal to help spark ideas 🧠\n• a Monthly soft reset: lil journal, mindset, or planning prompt 📓\n• sneak peeks of what’s launching in other my other brands/tiers 👀\n• gentle “hey chat 👋” community updates with zero pressure\n\n💛 this tier is for cozy lurkers, quiet creatives, and shy besties. show up when you can. ghost us when you need. you’re still in the chat.",
-          "tag": "tools"
+          "tag": "diary"
         },
         {
           "id": "note3",
@@ -30,7 +30,7 @@
           "id": "note4",
           "title": "💬 Main Chat — $10/mo (Standard)",
           "content": "✨ “you’re all in. you want vibes and strategy.”\n\n• unlock all the Lite NikkiGPT army\n• My personal AI Prompt Archive: prompts I actually use \n• Paywalled blog + comment access for soft accountability + shared celebrations ✨\n• Digital bestie energy on speed dial.\n\n💛 this tier is your main groupchat access: where cute meets clear. support without the stress. tools you’ll actually use.",
-          "tag": "tools"
+          "tag": "identity"
         },
         {
           "id": "note5",
@@ -41,13 +41,13 @@
       ]
     },
     {
-      "label": "Yesterday",
+      "label": "📌 Pinned",
       "notes": [
         {
           "id": "note6",
           "title": "🌈 No matter what tier you’re in",
           "content": "there’s no shame, no rush, no “shoulds.”\n\nJust a cute corner of the internet where your ideas are safe, your dreams matter, and your digital bestie is just a txt away 💬🧸✨",
-          "tag": "identity"
+          "tag": "magic"
         },
         {
           "id": "note7",
